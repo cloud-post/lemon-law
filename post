@@ -1,6 +1,5 @@
-$ mkdir post
-$ cd post
-$ echo "<h1> Post </h1>" > Lemon-law-attorney-san-diego-How-to-File-a-Lemon-Law-Case.html
-$ echo '<?php include_once("Lemon-law-attorney-san-diego-How-to-File-a-Lemon-Law-Case.html"); ?>' > index.php
-$ echo '{}' > composer.json
-$ git init
+<?php
+
+include_once("news.html");
+
+?>
